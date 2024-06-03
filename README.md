@@ -1,8 +1,8 @@
-<img width=100% bottom=50px src="https://github.com/JeversonDias/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
+<img width=100% bottom=50px src="[https://github.com/JeversonDias/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.linkedin.com%2Fpulse%2Fdistribui%25C3%25A7%25C3%25B5es-linux-e-suas-deriva%25C3%25A7%25C3%25B5es-uma-introdu%25C3%25A7%25C3%25A3o-%25C3%25A0s-presotto&psig=AOvVaw0zE-Wi4_TCxNVEwCDwMzgz&ust=1717520645523000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCrrZT1v4YDFQAAAAAdAAAAABAS)"/>
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+38+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Jeverson;I'm+38+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
