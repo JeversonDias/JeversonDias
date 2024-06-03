@@ -1,22 +1,22 @@
-<img width=100% bottom=50px src="[https://github.com/JeversonDias/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.linkedin.com%2Fpulse%2Fdistribui%25C3%25A7%25C3%25B5es-linux-e-suas-deriva%25C3%25A7%25C3%25B5es-uma-introdu%25C3%25A7%25C3%25A3o-%25C3%25A0s-presotto&psig=AOvVaw0zE-Wi4_TCxNVEwCDwMzgz&ust=1717520645523000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCrrZT1v4YDFQAAAAAdAAAAABAS)"/>
+<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Jeverson;I'm+38+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+27+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JeversonDias&theme=limegreenk&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
 
 <div align="center"> 
-<a href="https://instagram.com/Jeverson_Dev_Beginner" target="_blank">
-<!--<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">-->
+<a href="https://instagram.com/carol_developer" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 
 <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
@@ -24,12 +24,9 @@
 </a>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeversonDias&bg_color=000000&color=ffcfe9&line=f6d32d&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
+<a href="mailto:cmp.1a.caroline@gmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
 
 
 <a  href="https://www.linkedin.com/in/carolbarbosa/" target=_blank>
@@ -40,7 +37,7 @@
 
 <div align="center" >
    
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeversonDias&bg_color=613583&color=ffcfe9&line=3584e4&point=acfa02&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
 
 </div>
 
