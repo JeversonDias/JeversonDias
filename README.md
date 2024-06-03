@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
+<img width=100% bottom=50px src="https://github.com/JeversonDias/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
 <br>
 <br> 
 
@@ -24,10 +24,7 @@
 </a>
 
 
-<a href="mailto:cmp.1a.caroline@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeversonDias&bg_color=000000&color=ffcfe9&line=f6d32d&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
