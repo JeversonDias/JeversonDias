@@ -1,4 +1,4 @@
-<img width="100%" style="position: absolute; bottom: 50px;" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b">
+<img src="https://drive.google.com/uc?id=1JrQ1fc0ZNrPDUJ6KSAxXe81XCwipyyeS" alt="Redmi" />
 <br>
 <br> 
 
