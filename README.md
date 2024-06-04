@@ -11,8 +11,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JeversonDias&theme=7dff33&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=JeversonDais&theme=merko&hide_border=Verdadeiro)](https://git.io/streak-stats)
 </div>
 <br>
 
