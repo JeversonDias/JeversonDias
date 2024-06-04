@@ -11,7 +11,7 @@
 
 <div align="center">
   
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JeversonDais&theme=dark&hide_border=Verdadeiro&card_width=497" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JeversonDias&theme=mercok&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 </div>
 <br>
 
