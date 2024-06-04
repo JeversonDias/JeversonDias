@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?id=1JrQ1fc0ZNrPDUJ6KSAxXe81XCwipyyeS" alt="Redmi" />
+<img src="https://drive.google.com/uc?id=1D43zTZilQpU0WT662ej4dkJIDszcLGOd" alt="Redmi" />
 <br>
 <br> 
 
